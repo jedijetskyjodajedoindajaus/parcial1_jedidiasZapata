@@ -2,12 +2,13 @@ body {
     margin: 0;
     width: 100vh;
     height: 100vh;
+    overflow: hidden;
 }
 
 .newCircle {
     display: block;
     position: absolute;
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
 }
